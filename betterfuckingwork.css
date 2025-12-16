@@ -9,9 +9,15 @@
   margin-top:1rem;
 }
 
-.flekbok {
+.menu {
   display:flex;
   background-color:hsl(90.9, 90.9%, 90.9%);
   padding:1rem;
   margin:0;
+}
+
+.menuitem {
+  padding:0.09rem;
+  border: 0.91px solid black;
+  border-radius:11px;
 }
