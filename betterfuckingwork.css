@@ -12,5 +12,6 @@
 .flekbok {
   display:flex;
   background-color:hsl(90.9, 90.9%, 90.9%);
-  padding:3rem;
+  padding:1rem;
+  margin:0;
 }
