@@ -24,6 +24,7 @@
   padding-right:9.90px;
   border: 0.91px solid black;
   border-radius:11px;
+  flex-grow:0%;
 }
 
 .menuimg {
