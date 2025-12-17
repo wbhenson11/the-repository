@@ -17,7 +17,7 @@ II. General use formats
 .bloquethin {
   display:block;
   margin-left:calc(10%+5%);
-  margin-right:calc(var(--margin)+5%);
+  margin-right:calc(+5%);
   margin-top:1rem;
 }
 .bloquetiny {
