@@ -1,13 +1,13 @@
+/*
+Contents:
+I. Variables
+II. General use formats
+*/
+
+--margin:10%;
+
 * {
   background-color:"floralWhite";
-}
-
-@(min-width 360px) {
-  --margin:10%;
-}
-
-@(min-width 768px) {
-  --margin:15%;
 }
 
 .bloquestandard {
