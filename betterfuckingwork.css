@@ -4,36 +4,34 @@ I. Variables
 II. General use formats
 */
 
---margin:10%;
-
 * {
   background-color:"floralWhite";
 }
 
 .bloquestandard {
   display:block;
-  margin-left:var(--margin);
-  margin-right:var(--margin);
+  margin-left:10%;
+  margin-right:10%;
   margin-top:1rem;
 }
 .bloquethin {
   display:block;
-  margin-left:calc(var(--margin)+5%);
+  margin-left:calc(10%+5%);
   margin-right:calc(var(--margin)+5%);
   margin-top:1rem;
 }
 .bloquetiny {
   display:block;
-  margin-left:calc(var(--margin)+10%);
-  margin-right:calc(var(--margin)+10%);
+  margin-left:calc(10%+10%);
+  margin-right:calc(10%+10%);
   margin-top:1rem;
 }
 
 }
 .bloquemini {
   display:block;
-  margin-left:calc(var(--margin)+15%);
-  margin-right:calc(var(--margin)+15%);
+  margin-left:calc(10%+15%);
+  margin-right:calc(10%+15%);
   margin-top:1rem;
 }
 
