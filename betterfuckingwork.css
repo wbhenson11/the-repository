@@ -8,6 +8,12 @@
   margin-right:15%;
   margin-top:1rem;
 }
+.bloquewide {
+  display:block;
+  margin-left:20%;
+  margin-right:20%;
+  margin-top:1rem;
+}
 
 .menu {
   display:flex;
