@@ -16,22 +16,22 @@ II. General use formats
 }
 .bloquethin {
   display:block;
-  margin-left:calc(10%+5%);
-  margin-right:calc(+5%);
+  margin-left:15%;
+  margin-right:15%;
   margin-top:1rem;
 }
 .bloquetiny {
   display:block;
-  margin-left:calc(10%+10%);
-  margin-right:calc(10%+10%);
+  margin-left:20%;
+  margin-right:20%;
   margin-top:1rem;
 }
 
 }
 .bloquemini {
   display:block;
-  margin-left:calc(10%+15%);
-  margin-right:calc(10%+15%);
+  margin-left:25%;
+  margin-right:25%;
   margin-top:1rem;
 }
 
