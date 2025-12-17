@@ -2,24 +2,45 @@
   background-color:"floralWhite";
 }
 
-.bloque {
+@(min-width 360px) {
+  --margin:5%;
+}
+
+@(min-width 768px) {
+  --margin:10%;
+}
+
+@(min-width 768px) {
+  --margin:15%;
+}
+
+.bloquestandard {
   display:block;
-  margin-left:10%;
-  margin-right:10%;
+  margin-left:var(--margin);
+  margin-right:var(--margin);
   margin-top:1rem;
 }
 .bloquethin {
   display:block;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:calc(var(--margin)+5%);
+  margin-right:calc(var(--margin)+5%);
   margin-top:1rem;
 }
 .bloquetiny {
   display:block;
-  margin-left:20%;
-  margin-right:20%;
+  margin-left:calc(var(--margin)+10%);
+  margin-right:calc(var(--margin)+10%);
   margin-top:1rem;
 }
+
+}
+.bloquemini {
+  display:block;
+  margin-left:calc(var(--margin)+15%);
+  margin-right:calc(var(--margin)+15%);
+  margin-top:1rem;
+}
+
 
 .menu {
   display:flex;
