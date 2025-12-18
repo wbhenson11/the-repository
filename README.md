@@ -11,8 +11,5 @@ With that out of the way...
 >### Welcome to the Repository!
 >Thank you for being here.
 
-<br>
-<br>
-
 >### FAQs
 >**Where is the contact form to submit questions?** There is none yet! One may be implemented in the future, but we currently are not making any plans on that front.
