@@ -12,7 +12,7 @@ With that out of the way...
 >Thank you for being here.
 
 >### FAQs
->**Where is the contact form to submit questions?** There is none yet! One may be implemented in the future, but we currently are not making any plans on that front. However, we some questions that may be asked can be answered below. <br>
+>**Where is the contact form to submit questions?** There is none yet! One may be implemented in the future, but we currently are not making any plans on that front. However, we've some questions that may be asked can be answered below. <br>
 >**Why are there runes in your logo?** It looks cool. <br>
 >**Why is your logo an eye?** It looks cool. Also, see the 'About' page for the story. <br>
 >**What do the titles in your logo mean?** They represent the main areas of knowledge that interest us, although 'Unbelievable' is not quite the right word and 'Unknowable' isn't even a pipe dream. <br>
