@@ -82,11 +82,12 @@ III. Updates/Items indices
 
 .updatebox {
   display:flex;
+  flex-direction:row;
   border-width:2.73px;
   border-style:solid;
   border-radius:11px;
 }
 
 .updateimg {
-  height:36.36px;
+  max-height:36.36px;
 }
