@@ -62,8 +62,8 @@ p + p{
 .menu {
   display:flex;
   background-color:hsl(90.91, 90.91%, 90.91%);
-  padding:math(0.2rem+15px);
-  margin:-15px;
+  padding:1.2rem;
+  margin:-1rem;
   flex-direction:column;
   flex-wrap:wrap;
   align-content:flex-start;
