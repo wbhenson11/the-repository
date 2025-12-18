@@ -4,10 +4,6 @@ I. Variables
 II. General use formats
 */
 
-* {
-  background-color:"floralWhite";
-}
-
 .bloquestandard {
   display:block;
   margin-left:10%;
@@ -39,7 +35,7 @@ II. General use formats
 .menu {
   display:flex;
   background-color:hsl(90.91, 90.91%, 90.91%);
-  padding:1rem;
+  padding:0.2rem;
   margin:0;
   flex-direction:column;
   flex-wrap:wrap;
