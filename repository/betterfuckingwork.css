@@ -112,7 +112,8 @@ p + p{
 }
 
 .updateimg {
+  margin-top:0.1rem;
   max-height:55px;
   max-width:55px;
-  padding:
+  padding: 5px
 }
