@@ -87,9 +87,23 @@ p + p{
 ===||=||=||===
 */
 
-  /*Updates*/
-
 .updatebox {
+  display:flex;
+  flex-direction:column;
+  margin:0px;
+  padding:0px;
+  gap:0.5rem 0rem;
+}
+
+.statementbox {
+  display:flex;
+  flex-direction:column-reverse;
+  margin:0px;
+  padding:0px;
+  gap:0.5rem 0rem;
+}
+
+.box {
   display:flex;
   flex-direction:row;
   border-width:2.73px;
