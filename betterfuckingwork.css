@@ -54,7 +54,7 @@ III. Updates/Items indices
   display:flex;
   background-color:hsl(90.91, 90.91%, 90.91%);
   padding:0.2rem;
-  margin:0;
+  margin:0px;
   flex-direction:column;
   flex-wrap:wrap;
   align-content:flex-start;
