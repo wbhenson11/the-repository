@@ -1,7 +1,17 @@
 /*
 Contents:
-I. Variables
-II. General use formats
+I. Text Blocks
+II. Menus
+III. Updates/Items indices
+*/
+
+/*
+======||======
+      ||      
+      ||      
+      ||      
+      ||      
+======||======
 */
 
 .bloquestandard {
@@ -31,6 +41,14 @@ II. General use formats
   margin-top:1rem;
 }
 
+/*
+====||==||====
+    ||  ||      
+    ||  ||      
+    ||  ||      
+    ||  ||      
+====||==||====
+*/
 
 .menu {
   display:flex;
@@ -44,8 +62,28 @@ II. General use formats
 
 .menuitem {
   padding: 11px;
+  margin:0px;
 }
 
 .menuimg {
   height:72.73px;
+}
+
+/*
+===||=||=||===
+   || || ||      
+   || || ||      
+   || || ||      
+   || || ||      
+===||=||=||===
+*/
+
+  /*Updates*/
+
+.updatebox {
+  display:flex
+}
+
+.updateimg {
+  height:36.36px;
 }
