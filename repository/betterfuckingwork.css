@@ -5,6 +5,15 @@ II. Menus
 III. Updates/Items indices
 */
 
+/*Code from Benn on https://stackoverflow.com/questions/819161 */
+p{
+  margin:0;
+}
+p + p{
+  margin-top:10px;
+}
+
+
 /*
 ======||======
       ||      
@@ -91,4 +100,5 @@ III. Updates/Items indices
 .updateimg {
   max-height:55px;
   max-width:55px;
+  padding:
 }
