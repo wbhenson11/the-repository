@@ -81,7 +81,9 @@ III. Updates/Items indices
   /*Updates*/
 
 .updatebox {
-  display:flex
+  display:flex;
+  border-width:2.73px;
+  border-radius:11px;
 }
 
 .updateimg {
